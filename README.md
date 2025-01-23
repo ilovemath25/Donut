@@ -1,8 +1,8 @@
 # **Donut in Python**
 
 ### **Used Libraries**
-- **`math`**: For trigonometry (e.g., sine, cosine).
-- **`os`**: For clearing terminal.
+- `math`: For trigonometry (e.g., sine, cosine).
+- `os`: For clearing terminal.
 
 ---
 
